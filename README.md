@@ -4,7 +4,12 @@
 ## What all we need for this to run
 ### (if the code doesn't work, install all these in a venv)
 - Tkinter
-    - Do pip / pip3 install tkinter
+
+it is a default module in python
+
+- Python
+    
+    brew install python3
 
 #
 ## code
